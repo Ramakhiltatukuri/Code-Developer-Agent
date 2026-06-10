@@ -1,0 +1,21 @@
+{
+  "venvPath": "backend",
+  "venv": "venv",
+  "exclude": [
+    "**/__pyrefly_virtual__/**",
+    "__pyrefly_virtual__"
+  ],
+  "extraPaths": [
+    "backend"
+  ],
+  "executionEnvironments": [
+    {
+      "root": "backend",
+      "venvPath": "backend",
+      "venv": "venv",
+      "extraPaths": [
+        "backend"
+      ]
+    }
+  ]
+}
